@@ -1,3 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h2{
 color: red;
+font-style: italic;
+font-weight: lighter;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration: underline;
+font-size: 80px;
+text-align: center;
+}
+#heading-parent{
+    background-color: rgb(78, 45, 33);
+    height: 100px;
+    padding: 00px 0;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 50px;
 }
